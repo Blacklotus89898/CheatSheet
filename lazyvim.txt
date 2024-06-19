@@ -1,7 +1,21 @@
 This is the lazyvim cheatsheet
 
-Moving aroung buffers:
-shift + h/l
-
+Buffer:
+Moving aroung buffers: shift + h/l
 Closing buffer; space > b > d 
 
+Windows:
+Closing: space > w > d
+Splitting: space > | or -
+
+Lazygit:
+stage: space
+commit: c
+push: P
+pull: p 
+
+Learn to use flash:
+find a word: s
+
+Learn to replace multiple
+*cgn
