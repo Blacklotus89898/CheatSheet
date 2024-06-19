@@ -1,1 +1,7 @@
 This is the lazyvim cheatsheet
+
+Moving aroung buffers:
+shift + h/l
+
+Closing buffer; space > b > d 
+
