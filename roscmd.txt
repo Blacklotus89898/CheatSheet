@@ -1,0 +1,12 @@
+Must know:
+source devel setup.bash
+source opt/ros/noetic/setup.bash
+roscore
+rosrun rosPackageName rosNodeName
+roslaunch ...
+rostopic list
+
+e.g: rosrun rosserial_python serial_node.py /dev/ttyACM0
+rostopic echo topicName 
+
+roslaunch rosbridge_server rosbridge_websockets.launch

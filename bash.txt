@@ -1,0 +1,19 @@
+Must know:
+pwd
+ls
+hostname -I
+cd
+mkdir
+vim
+code .
+open
+
+To add:
+show process and kill
+ip, ping, hostname
+ssh, scp, manuals
+
+Extra:
+motion: C-a, C-e (start/end), C-f, C-b (back and forth), C-k (clear line), C-c (kill)
+C-l //clear terminal
+

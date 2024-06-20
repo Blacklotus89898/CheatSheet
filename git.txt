@@ -1,0 +1,13 @@
+git pull githubLink
+git checkout -b newBranch
+git checkout existingBranch
+git add fileName
+git commit -m "commit message"
+git push
+git fetch
+git merge branchNameMergingIntoCurrentBranch
+
+Extra
+practice and understand:
+git rebase ...
+

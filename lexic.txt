@@ -1,0 +1,13 @@
+SDLC:
+Design Patterns
+Software Architectures:
+CI/CD:
+Build:
+Devel, Stage, Production:
+Lint:
+Compiler:
+Build tool:
+Framework:
+Package Manager:
+Library:
+
