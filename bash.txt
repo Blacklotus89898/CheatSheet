@@ -3,23 +3,26 @@ Key point: learn by doing it, only learn the often used commands and flags since
 
 Must know: (keep in mind to use them and learn the used flags)
 pwd
-ls
+ls -al
 hostname -I
 cd
 mkdir
+mv
+cp
 vim //check vim.txt
 code .
 open
 source
 ps
+man
 
 To add:
 show process and kill
 ip, ping, hostname
 ssh, scp, manuals
 
-Extra:
-bashrc
+Extra //understand how to configure bash with hidden ".dotfiles":
+.bashrc
 
 Motion:
 C-a, C-e (start/end), 

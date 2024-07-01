@@ -1,15 +1,24 @@
-git pull githubLink
+git clone githubLink
+git pull 
 git checkout -b newBranch
+git branch
+git fetch //vs git pull
 git checkout existingBranch
 git add fileName
 git commit -m "commit message"
 git push
 git fetch
 git merge branchNameMergingIntoCurrentBranch
+git status
+git revert vs git reset
 
-Extra
+Practice //courtesy from Tina: https://learngitbranching.js.org/
+Also practice on the Cheatsheet github repository to be confortable with creating branch and doing pull request
+
+Extra:
 practice and understand:
-git rebase ...
+git rebase ... vs git merge 
 
+Debugging for new user:
 learn how to generate rsa public key
 learn to generate token for access other repo

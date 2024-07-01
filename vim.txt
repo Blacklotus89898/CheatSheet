@@ -1,3 +1,7 @@
+Why learn VIM:
+Needed for Comp206, very quick if you master it. It is essentially a barebone version of Word for coding and writing text file
+Where to start? Check online resources and for the brave use vimtutor
+
 ## Tabs
 
 ### New Tab
