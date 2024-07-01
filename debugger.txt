@@ -1,0 +1,25 @@
+Debug and troubleshooter guide:
+- Currently written in .txt
+- Will be migrated to latex at the start of the semester
+
+Ubuntu installation:
+- WSL: try to follow the guide as closely
+- Virtual box: try reinstalling the image
+- Chatgpt > Stackoverflow > after 5 min > ask Lead asap
+
+Github:
+- Check RSA, token, access to the repo
+- Try vscode extension or github desktop
+
+Python code compilation error:
+- No need to use venv unless doing RnD
+
+UI with angular:
+- install NVM, then install node through NVM
+- npm i, npm start
+
+ROS: 
+- list the topics, echo the topic, 
+- use a mock node to test before asking electrical to test with you, ask for code review and QA from others
+
+
