@@ -1,4 +1,15 @@
+Why use tmux: split a terminal using the same session
+
+
 C-b + %
 C-b + ''
 
 C-b + arrow key
+
+tmux list
+
+tmux a -t sessionName
+
+C-b + x > y //close the pane
+
+

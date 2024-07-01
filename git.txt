@@ -11,3 +11,5 @@ Extra
 practice and understand:
 git rebase ...
 
+learn how to generate rsa public key
+learn to generate token for access other repo

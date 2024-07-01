@@ -5,6 +5,9 @@ roscore
 rosrun rosPackageName rosNodeName
 roslaunch ...
 rostopic list
+rqt_graph
+rostopic info
+rostoic echo vs rostopic pub
 
 e.g: rosrun rosserial_python serial_node.py /dev/ttyACM0
 rostopic echo topicName 

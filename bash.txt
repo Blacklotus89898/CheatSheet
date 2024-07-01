@@ -1,12 +1,17 @@
-Must know:
+Understand what flags are and learn to use a little bit about the man command //man stands for manual
+Key point: learn by doing it, only learn the often used commands and flags since there is no point
+
+Must know: (keep in mind to use them and learn the used flags)
 pwd
 ls
 hostname -I
 cd
 mkdir
-vim
+vim //check vim.txt
 code .
 open
+source
+ps
 
 To add:
 show process and kill
@@ -14,6 +19,12 @@ ip, ping, hostname
 ssh, scp, manuals
 
 Extra:
-motion: C-a, C-e (start/end), C-f, C-b (back and forth), C-k (clear line), C-c (kill)
+bashrc
+
+Motion:
+C-a, C-e (start/end), 
+C-f, C-b (back and forth), 
+C-k (clear line), 
+C-c (kill)
 C-l //clear terminal
 

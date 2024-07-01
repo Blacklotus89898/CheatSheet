@@ -5,9 +5,24 @@ CI/CD:
 Build:
 Devel, Stage, Production:
 Lint:
-Compiler:
+Compiler vs interpreter:
 Build tool:
 Framework:
 Package Manager:
 Library:
+OOP:
+Module:
+Sync vs async function, blocking vs non blocking
+Callback function
+
+Ros:
+roscore vs rosmaster
+node
+topic
+msg
+service
+publisher vs subscriber
+rviz vs gazebo
+
+
 
