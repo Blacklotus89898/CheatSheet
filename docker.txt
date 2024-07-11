@@ -1,0 +1,8 @@
+docker --version
+docker run -it ubuntu:20.04 --name Ros
+
+docker ps --all
+docker rm containerName
+docker run -d containerName or containerId //detached
+
+docker will need a time for it to be consistently running
