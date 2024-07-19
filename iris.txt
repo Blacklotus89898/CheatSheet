@@ -1,0 +1,24 @@
+Tutorial hour session
+
+1. Bash, Vim
+2. Git
+3. Ros
+
+
+/home/iris/ == ~
+
+bash:
+ls   *
+
+pwd  *
+
+cd .. *
+cd <place you want to go into (inside where you are currently)> *
+
+touch *
+
+mkdir *
+
+Taught her how to use vim
+
+
