@@ -9,11 +9,34 @@ Where to start? Check online resources and for the brave use vimtutor
 * `:tabnew` - new blank tab
 * `:tabedit [file]` - open file in tab
 
-### Cursor Movement
+### Cursor Movement in Normal Mode
+*  up: k
+*  down: j
+*  left: h
+*  right: l 
+kjhl keys allows more efficient navigation in vim than arrow keys
+If you exit normal mode by accident, press "esc" key to return to normal mode
 
 * `gt` (`:tabn`) - next tab
 * `gT` (`:tabp`) - previous tab
 * `[i]gt` - go to tab `[i]`
+
+### Cursor Movement in Normal Mode
+*  up: k
+*  down: j
+*  left: h
+*  right: l 
+kjhl keys allows more efficient navigation in vim than arrow keys
+If you exit normal mode by accident, press "esc" key to return to normal mode
+
+
+### Edit Text
+*  "x" key to delete character at right of cursor
+*  "i" key for Insert Mode, where you can type text as usual
+	*"Esc" key to return to Normal Mode (move around)
+*  "a" key for Append Mode (same as Insert Mode) where you type after cursor
+	*"Esc" key to return to Normal Mode (move around)
+*  "u" key undoes your previous modification
 
 ### Tabs Management
 
