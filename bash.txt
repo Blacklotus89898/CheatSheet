@@ -10,11 +10,12 @@ mkdir: make new directory, syntax: mkdir directory_name
 mv: moves files between directories, syntax: mv file_name destination_directory_name
 cp: copy source_files in new file, syntax: cp source_file_name destination_file_name
 vim //check vim.txt
+rm: remove file PERMANENTLY, syntax: rm [optional feature](flags)... file_name
 code .
 open
-source
+source: used in ros
 ps
-man
+man: displays manual page, documentation
 
 To add:
 show process and kill
