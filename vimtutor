@@ -1,0 +1,18 @@
+Cursor Movement in Normal Mode
+*  up: k
+*  down: j
+*  left: h
+*  right: l                                                    kjhl keys allows more efficient navigation in vim than arrow keys
+If you exit normal mode by accident, press "esc" key to return to normal mode                                                                                                                Cursor Movement in Normal Mode
+*  up: k
+*  down: j
+*  left: h
+*  right: l
+kjhl keys allows more efficient navigation in vim than arrow keys
+If you exit normal mode by accident, press "esc" key to return to normal mode                                                                                                                Edit Text
+*  "x" key to delete character at right of cursor
+*  "i" key for Insert Mode, where you can type text as usual           *"Esc" key to return to Normal Mode (move around)
+*  "a" key for Append Mode (same as Insert Mode) where you type after cursor
+* "A"/"I" key for typing at the end of start/end of the line
+        *"Esc" key to return to Normal Mode (move around)
+*  "u" key undoes your previous modification
